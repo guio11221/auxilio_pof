@@ -1,0 +1,15 @@
+ body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .card-title {
+     font-weight: 600;
+ }
+
+ footer {
+     font-size: 0.9rem;
+ }
+
+ .hidden {
+     display: none;
+ }
